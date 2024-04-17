@@ -1,7 +1,9 @@
 ## Getting Started
 
 Prerequisites, you need to have metamask installed in your browser and have some sepolia test tokens
+</br>
 https://metamask.io/
+</br>
 https://sepolia-faucet.pk910.de/
 
 Then, copy the repo and type in terminal
