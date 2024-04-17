@@ -23,4 +23,6 @@ next start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+Following is the screenshot
+![Screenshot](https://github.com/Vincent71399/token_forge/assets/10882410/efb9aa57-89ea-446c-b4d1-e35e037728e4)
 
